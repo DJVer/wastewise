@@ -1,9 +1,9 @@
 streamlit
 folium
 streamlit_option_menu
-cv2
+opencv-python
 numpy
-csv
+python-csv
 streamlit_folium
 pandas
 matplotlib.pyplot
