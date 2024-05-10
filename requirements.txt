@@ -7,4 +7,3 @@ python-csv
 streamlit_folium
 pandas
 matplotlib
-pillow
